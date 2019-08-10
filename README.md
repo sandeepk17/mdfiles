@@ -31,3 +31,7 @@
     * [link to Azure Cloud!](http://azure.microsoft.com)
 * GOOGLE CLOUD
     * [link to Google Cloud!](http://cloud.google.com)
+
+##### MACHINELEARNING
+
+###### IOT
