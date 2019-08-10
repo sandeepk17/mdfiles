@@ -26,5 +26,8 @@
 #### *CLOUD PLATFORM LINKS*
 *This section contains CLOUD PROVIDERS Links and Cheatsheets*
 * AWS
+    * [link to AWS Cloud!](https://aws.amazon.com/)
 * AZURE
+    * [link to Azure Cloud!](http://azure.microsoft.com)
 * GOOGLE CLOUD
+    * [link to Google Cloud!](http://cloud.google.com)
