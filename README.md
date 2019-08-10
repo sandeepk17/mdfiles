@@ -1,6 +1,6 @@
 # mdfiles
 
-## *BOOKMARKED RESOURCES* 
+## *BOOKMARKED RESOURCES :laughing:* 
 **This section contains websites and BLogs links  **
 * websites
 * Blogs
@@ -24,7 +24,7 @@
 
 
 #### *CLOUD PLATFORM LINKS*
-*This section contains CLOUD PROVIDERS Links and Cheatsheets*
+*This section contains CLOUD PROVIDERS Links and Cheatsheets :laughing:*
 * AWS
     * [link to AWS Cloud!](https://aws.amazon.com/)
 * AZURE
